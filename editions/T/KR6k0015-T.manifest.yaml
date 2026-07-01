@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR6k0015/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0015/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘尼羯磨法
+  identifiers:
+    krp: KR6k0015
+    cbeta: T22n1434
+    cbeta_old_id: T22n1434
+    authorityid: CA0002780
+    json_key: T1434
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1434.xml
+    old_id: T22n1434
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0015_000-T.yaml, hash: 'sha256:882a2e3eaadb5ed0275670d46f5bf875cf716d4e331fc317eece89cebf659a42'}
+  - {seq: 1, filename: KR6k0015_001-T.yaml, hash: 'sha256:cae278fe17c6b1299ed855866d30135afa3cb6c7498195fc8559d68867d766f3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0015_000-T.markers.yaml, hash: 'sha256:f9298d2f899b0e856de2b3dd9fe4cff388d5ade6cd7b55b3e3b74c6a46daaca0'}
+  - {seq: 1, role: markers, filename: assets/KR6k0015_001-T.markers.yaml, hash: 'sha256:c168ee9126ab64c0da2fb2414ef339eb69b9e28c4a0e7c2c3cc22dd5be28c1fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9478
+  label: 四分比丘尼羯磨法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 結界法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-2
+    span:
+    - body
+    - 35
+    - 35
+  label: 2 受戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-3
+    span:
+    - body
+    - 4147
+    - 4147
+  label: 3 除罪法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-4
+    span:
+    - body
+    - 4943
+    - 4943
+  label: 4 說戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-5
+    span:
+    - body
+    - 5359
+    - 5359
+  label: 5 安居法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-6
+    span:
+    - body
+    - 5373
+    - 5373
+  label: 6 自恣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-7
+    span:
+    - body
+    - 5771
+    - 5771
+  label: 7 分衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-8
+    span:
+    - body
+    - 5781
+    - 5781
+  label: 8 衣食淨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0015_T_001-mulu-9
+    span:
+    - body
+    - 5802
+    - 5802
+  label: 9 雜法
+  type: mulu
+  level: 1
+hash: sha256:7eba1a885c559605df0971387797443f5b300cf4ce3c4f98f419cb24fe22fca7

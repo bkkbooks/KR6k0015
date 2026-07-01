@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0015/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘尼羯磨法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1434.xml
+    old_id: T22n1434
+hash: sha256:882a2e3eaadb5ed0275670d46f5bf875cf716d4e331fc317eece89cebf659a42
