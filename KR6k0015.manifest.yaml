@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0015/v1
 canonical_location: https://kanripo.org/bkk/KR6k0015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 四分比丘尼羯磨法
   identifiers:
@@ -43,10 +43,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0015_000.yaml, hash: 'sha256:882a2e3eaadb5ed0275670d46f5bf875cf716d4e331fc317eece89cebf659a42'}
-  - {seq: 1, filename: KR6k0015_001.yaml, hash: 'sha256:cae278fe17c6b1299ed855866d30135afa3cb6c7498195fc8559d68867d766f3'}
+  - {seq: 1, filename: KR6k0015_001.yaml, hash: 'sha256:f9c46cbaff4c0d4a2a8b7731af6542531f367e8ed0e43e2ebf4802f3dffdbef3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0015_000.markers.yaml, hash: 'sha256:f4b3d5083b768c667fc54c3f555312bd447c9b587ce99f4f155b50955e8617a0'}
-  - {seq: 1, role: markers, filename: assets/KR6k0015_001.markers.yaml, hash: 'sha256:1d5e680957a070467fee1f2b0274de1bf3f790ff0077dc625b915a6a891e6b89'}
+  - {seq: 1, role: markers, filename: assets/KR6k0015_001.markers.yaml, hash: 'sha256:13e7a7c759e2d69f8e767e00e26120442e6e7f79956d26ed9921209d1d3fd21d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -148,4 +148,7 @@ table_of_contents:
   label: 9 雜法
   type: mulu
   level: 1
-hash: sha256:c21505bee9261919b6ba14f783d4278ff639d2b0f9c89033d923d91ffd871f13
+hash: sha256:0bde69cac1781a4db7176d0ce14b38456adaebb4871368305d223740d10c336b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
